@@ -1,0 +1,30 @@
+html{
+  height: 100%
+}
+
+body {
+  width: 800px;
+  margin: 0 auto;
+  padding-top: 5px;
+  height: 100%
+}
+
+
+header {
+background-color:black;
+color:#D12D15;
+text-align: center;
+padding: 5px
+font-size 20px
+display: block;
+}
+
+nav{
+  line-hieght:30px;
+  background-color:#D12D15;
+  min-height:
+}
+img{
+  height:400px;
+  width:400px;
+}

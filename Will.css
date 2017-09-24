@@ -1,0 +1,31 @@
+html{
+  height: 100%
+}
+
+body{
+  width: 800px;
+  margin: auto;
+  padding-top: 5px;
+  height: 100%
+}
+
+header{
+  background-color: black;
+  color: white;
+  text-align: center;
+  padding: 5px;
+  font-size: 20px;
+  display: block;
+  width: 790px;
+}
+
+nav{
+  line-height: 30px;
+  background-color: #72F8FF;
+  min-height:100%;
+  width: 125px;
+  display: inline-block;
+  vertical-align: top;
+  padding: 5px;
+  font-size: 18px;
+  }
